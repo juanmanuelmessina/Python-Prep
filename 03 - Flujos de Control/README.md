@@ -1,6 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-## Grabación de la Clase 3
+## Grabación de la Clase 3º
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/684295459" allow="autoplay; fullscreen" allowfullscreen></iframe>
